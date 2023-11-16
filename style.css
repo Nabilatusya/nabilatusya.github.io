@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+body {
+    font-family: 'Quicksand', sans-serif !important;
+}
+nav {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+nav a {
+    color: rgb(217, 201, 230) !important;
+}
+.jumbotron {
+    padding: 75px 25px;
+    background-image: url(vb.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h3{
+    font-family: 'Concert One', cursive;
+    padding-top: 15px;
+    color: rgb(229, 211, 245);
+}
+.eter {
+    font-weight: 300;
+    font-size: 1.7em;
+    color: rgb(229, 211, 245);
+}
+.aboutme h2{
+    font-family: 'Concert One', cursive;
+    color: rgb(229, 211, 245);
+    padding-top: 40px;
+    font-size: 75px;
+}
+p{
+    font-family: 'Dancing Script', cursive;
+    color: azure;
+    font-size: 20px;
+}
+.row p{
+    font-family: 'Caveat Brush', cursive;
+    color: #614876;
+}
+ul h3{
+    font-family: 'Concert One', cursive;
+}
+.navbar navbar-expand-lg navbar-light bg-info{
+    background-color: black;
+}
+.aboutme{
+    background-image: url(vb2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.boutme h3{
+    color: rgb(68, 43, 70);
+    font-size: 30px;
+}
+.boutme p{
+    text-align: justify;
+    color: #645074;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.biodata h3{
+    color: rgb(68, 43, 70);
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+.biodata p{
+    text-align: justify;
+    color: #645074;
+    padding-left: 125px;
+    padding-right: 25px;
+}
+.biodata span{
+    color: #d09fcf;
+}
+.projects h2{
+    font-size: 75px;
+    font-family: 'Concert One', cursive;
+    color: rgb(229, 211, 245);
+    padding-top: 40px;
+    font-size: 75px;
+}
+.project{
+    background-image: url(vb3.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 25px;
+}
+.project p{
+    font-family: 'Rancho', cursive;
+}
+.project h2{
+    font-family: 'Aclonica', sans-serif;
+}
+.contactme h2{
+    font-family: 'Aclonica', sans-serif;
+    color: #2e0e2d;
+}
+.card-body button{
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #f0daaa;
+}
+#contact{
+    background-image: url(vb3.png);
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+.contactme form{
+    justify-content: center;
+}
+.contactme h2{
+    color: #d09fcf;
+    font-size: 50px;
+}
+#contact2{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background: rgb(119,223,213);
+background: radial-gradient(circle, rgba(119,223,213,1) 0%, rgba(228,147,198,1) 48%, rgba(113,50,134,1) 75%, rgba(64,22,103,1) 100%);
+}
